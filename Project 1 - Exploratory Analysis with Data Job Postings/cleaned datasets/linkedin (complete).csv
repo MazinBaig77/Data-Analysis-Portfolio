@@ -1,0 +1,205 @@
+Job_ID,Company,Job_title,Job_simple,Max_Salary,Pay_Period,Location,Company_ID,Min_Salary,Work_Type,Remote_Allowed,Experience_Level,Compensation_Type,Normalized_Salary,skill,industry_name
+3245063922,Saxon AI,Data Architect,Data Architect,NULL,null,"San Francisco, CA",224935,NULL,Contract,0,null,null,null,Engineering,IT Services and IT Consulting
+3398076960,NULL,Technical Product and IT Manager for Data Center Dedicated Server Leasing,Other,225000,YEARLY,United States,NULL,85000,Full-time,1,null,BASE_SALARY,155000,Product Management,NULL
+3540371917,KeyBank,Enterprise Data & Analytics Infrastructure Manager,Other,NULL,null,"Cleveland, OH",3252,NULL,Full-time,0,null,null,null,Information Technology,Banking
+3742692445,ZenithMinds Inc,Sr Data Engineer with Kafka,Data Engineer,NULL,null,"Austin, TX",81941852,NULL,Full-time,1,null,null,null,NULL,IT Services and IT Consulting
+3792233622,PB Built,Receptionist/Data Entry,Data Entry,NULL,HOURLY,"Jupiter, FL",2331524,NULL,Full-time,0,null,BASE_SALARY,45760,NULL,Construction
+3797449314,"Subaru Research and Development, Inc",Cloud Platform/ Big Data Engineer,Data Engineer,NULL,null,"Michigan, United States",91080439,NULL,Full-time,0,Entry level,null,null,Engineering,IT Services and IT Consulting
+3800272386,Sovrinti,Data Science Software Engineer,Data Engineer,NULL,null,United States,80936343,NULL,Full-time,1,null,null,null,NULL,IT Services and IT Consulting
+3800989742,SilverSpace Technologies Inc,Data Engineer/ETL,Data Engineer,NULL,null,"Hartford, CT",71373471,NULL,Contract,0,null,null,null,Information Technology,IT Services and IT Consulting
+3813645405,Tenazx Inc,Data Analyst,Data Analyst,NULL,null,"Queens, NY",82537206,NULL,Contract,0,null,null,null,Information Technology,"Technology, Information and Internet"
+3841003722,NULL,Senior Data Engineer/Analyst - Full Time,Data Analyst,107,HOURLY,"California, United States",NULL,101,Full-time,1,null,BASE_SALARY,216320,Information Technology,NULL
+3847143087,MDI Imaging & Mail,Data Processor,Other,65000,YEARLY,"Cascades, VA",403183,55000,Full-time,0,null,BASE_SALARY,60000,Administrative,Advertising Services
+3872787865,Radiant Systems Inc,eCommerce Data Analyst,Data Analyst,NULL,null,United States,3342169,NULL,Contract,1,null,null,null,Information Technology,IT Services and IT Consulting
+3880157614,Acro Service Corp,Data Entry Specialist,Data Entry,16,HOURLY,"Phoenix, AZ",50861,16,Full-time,0,Entry level,BASE_SALARY,33280,Accounting/Auditing,Government Administration
+3884426975,Publicis Sapient,Azure Data Engineer (Full time),Data Engineer,145000,YEARLY,"Arlington, VA",10801655,95000,Full-time,0,Mid-Senior level,BASE_SALARY,120000,Information Technology,Business Consulting and Services
+3884430601,Ledgent Technology,Database Administrator (BOCA RATON),Other,105000,YEARLY,"Boca Raton, FL",10592585,90000,Full-time,0,Entry level,BASE_SALARY,97500,Information Technology,IT Services and IT Consulting
+3884430616,EPITEC,Data Management Analyst,Data Analyst,47,HOURLY,United States,25461,37,Contract,1,Entry level,BASE_SALARY,87360,Information Technology,IT Services and IT Consulting
+3884430958,Quigley-Simpson,"Senior Analyst, Data & Analytics",Data Analyst,93000,YEARLY,Los Angeles Metropolitan Area,77117,90000,Full-time,0,Mid-Senior level,BASE_SALARY,91500,Advertising,Advertising Services
+3884431580,"Econtenti, Inc",Azure Data Engineer,Data Engineer,4652,MONTHLY,"Seattle, WA",2329852,3718,Full-time,0,null,BASE_SALARY,null,Information Technology,Software Development
+3884435029,Aquent,Data Entry Specialist,Data Entry,24,YEARLY,San Francisco Bay Area,4433,20,Contract,1,Associate,BASE_SALARY,22,Administrative,Retail
+3884442367,Photon,Data Architect,Data Architect,80000,YEARLY,"Louisville, KY",165464,70000,Contract,0,Mid-Senior level,BASE_SALARY,null,Engineering,IT Services and IT Consulting
+3884819737,Acro Service Corp,Data Analyst,Data Analyst,40,HOURLY,"Orlando, FL",50861,40,Contract,0,Mid-Senior level,BASE_SALARY,83200,Information Technology,Government Administration
+3884853428,Live Nation Entertainment,Data Architect,Data Architect,180000,YEARLY,"West Hollywood, CA",6593,144000,Full-time,1,Mid-Senior level,BASE_SALARY,162000,Engineering,Entertainment Providers
+3884896159,SS Software Technologies,Data Architect,Data Architect,80000,YEARLY,"Dallas, TX",72061315,70000,Contract,0,null,BASE_SALARY,null,Engineering,IT Services and IT Consulting
+3886482728,Infocepts Inc,Data Analyst,Data Analyst,0,HOURLY,"Texas City, TX",74969321,0,Full-time,0,null,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3886482903,NULL,Data Analyst,Data Analyst,0,YEARLY,"Etna, OH",NULL,0,Part-time,1,null,BASE_SALARY,55000,Information Technology,NULL
+3886885615,Insight Global,Data Analyst,Data Analyst,0,HOURLY,United States,11056,0,Contract,1,Associate,BASE_SALARY,null,Analyst,Data Infrastructure and Analytics
+3886895303,Insight Global,Data Analyst,Data Analyst,0,HOURLY,United States,11056,0,Contract,1,Associate,BASE_SALARY,null,Information Technology,Retail Pharmacies
+3887103333,EPITEC,Data Analyst,Data Analyst,45,HOURLY,"Jacksonville, FL",25461,30,Contract,1,Mid-Senior level,BASE_SALARY,78000,Information Technology,Health and Human Services
+3887707916,SPECTRAFORCE,Data Entry Specialist,Data Entry,28,HOURLY,"Tonawanda, NY",71350,28,Contract,0,Associate,BASE_SALARY,58240,Administrative,Staffing and Recruiting
+3887831945,Complete Staffing Solutions,Data Entry Specialist,Data Entry,48000,YEARLY,"Seattle, WA",1457175,48000,Full-time,0,Entry level,BASE_SALARY,48000,Administrative,Staffing and Recruiting
+3887833724,Mindlance,Data Analyst,Data Analyst,46,HOURLY,"Austin, TX",47040,40,Contract,0,Mid-Senior level,BASE_SALARY,89440,Information Technology,"Appliances, Electrical, and Electronics Manufacturing"
+3888036167,Lemon Tek,Data Analyst,Data Analyst,18,HOURLY,United States,102801165,15,Full-time,1,null,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3888937935,KACE Company,Data Analyst,Data Analyst,18,HOURLY,"Washington, DC",70896556,15,Full-time,0,Entry level,BASE_SALARY,null,Information Technology,Business Consulting and Services
+3889104216,Allied OneSource,Data Architect,Data Architect,150000,YEARLY,"Kansas City, MO",79098,130000,Full-time,1,Mid-Senior level,BASE_SALARY,140000,Engineering,Accounting
+3889120272,International Paper,Data Analyst,Data Analyst,43,HOURLY,"Cedar Rapids, IA",3242,35,Full-time,0,null,BASE_SALARY,141440,Information Technology,Paper and Forest Product Manufacturing
+3889746099,A-Line Staffing Solutions,Data Entry Specialist,Data Entry,240000,YEARLY,"Lewisville, TX",649388,240000,Contract,0,Entry level,BASE_SALARY,null,Administrative,Financial Services
+3890889935,DATAMETRICS SOFTWARE SYSTEMS INC.,Data Analyst,Data Analyst,85000,YEARLY,"Newark, NJ",33046677,35000,Contract,0,null,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3890892407,TalentBridge,Data Analyst,Data Analyst,47,HOURLY,New York City Metropolitan Area,95313,42,Contract,0,Mid-Senior level,BASE_SALARY,92560,Analyst,Public Relations and Communications Services
+3890892477,Equity Staffing Group,Data Analyst,Data Analyst,58,HOURLY,"Eden Prairie, MN",416904,50,Contract,0,Associate,BASE_SALARY,112320,Analyst,Health and Human Services
+3891013860,Aptly Technology Corporation,Data Architect,Data Architect,85000,YEARLY,United States,19161931,35000,Contract,1,null,BASE_SALARY,null,Engineering,IT Services and IT Consulting
+3891034286,"TruHome Solutions, LLC ",Data Architect,Data Architect,85000,YEARLY,"Lenexa, KS",659301,35000,Full-time,0,Mid-Senior level,BASE_SALARY,null,Engineering,Financial Services
+3891067775,HCA Healthcare,Data Analyst,Data Analyst,85000,YEARLY,Nashville Metropolitan Area,3626,35000,Contract,0,Mid-Senior level,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3891069941,InfoVision Inc.,Data Analyst,Data Analyst,85000,YEARLY,"South Dakota, United States",282692,35000,Contract,0,Entry level,BASE_SALARY,null,Information Technology,Telecommunications
+3891074620,Technology Hub Inc,Azure Data Engineer,Data Engineer,85000,YEARLY,"Plano, TX",18587408,35000,Contract,0,null,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3891076521,Optomi,Data Analyst,Data Analyst,65,HOURLY,United States,2684081,55,Contract,1,Mid-Senior level,BASE_SALARY,124800,Information Technology,IT Services and IT Consulting
+3891081055,Maricopa County,Data Architect,Data Architect,155000,YEARLY,"Phoenix, AZ",164848,93500,Full-time,0,Mid-Senior level,BASE_SALARY,124250,Engineering,Government Administration
+3891267987,Experis,Data Analyst,Data Analyst,85000,HOURLY,"New Albany, OH",2203697,35000,Contract,0,Entry level,BASE_SALARY,87360,Information Technology,Staffing and Recruiting
+3891282411,Russell Tobin,Data Entry Specialist,Data Entry,85000,YEARLY,"Franklin, TN",827183,35000,Contract,0,Entry level,BASE_SALARY,null,Administrative,Staffing and Recruiting
+3894218328,"Delta System & Software, Inc.",Data Analyst,Data Analyst,23,HOURLY,"Chesterfield, VA",690587,21,Contract,0,Mid-Senior level,BASE_SALARY,null,Information Technology,Information Services
+3894281851,Synechron,Azure Data Engineer,Data Engineer,120000,YEARLY,"Weehawken, NJ",15506,100000,Full-time,0,Mid-Senior level,BASE_SALARY,110000,Information Technology,Financial Services
+3894551518,Tata Consultancy Services,Data Analyst,Data Analyst,34,HOURLY,"Bellevue, WA",1353,25,Full-time,0,Entry level,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3894950145,Complete Staffing Solutions,Data Analyst,Data Analyst,95000,YEARLY,"Atlanta, GA",1457175,95000,Full-time,0,Entry level,BASE_SALARY,95000,Information Technology,Staffing and Recruiting
+3895215696,Quantum World Technologies Inc.,Data Analyst,Data Analyst,0,HOURLY,United States,13331595,0,Contract,1,Mid-Senior level,BASE_SALARY,null,Advertising,IT Services and IT Consulting
+3895242027,Coders Data,Data Analyst,Data Analyst,0,HOURLY,New York City Metropolitan Area,14508644,0,Full-time,1,Entry level,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3895487876,Community Foundation for a greater Richmond,Data Analyst,Data Analyst,89000,YEARLY,"Richmond, VA",77710,80000,Full-time,0,null,BASE_SALARY,null,Information Technology,Philanthropic Fundraising Services
+3895569928,ActiveCampaign,Data Architect,Data Architect,26,HOURLY,"Indianapolis, IN",221390,23,Full-time,0,Mid-Senior level,BASE_SALARY,null,Engineering,Software Development
+3898155777,Catapult Solutions Group,Data Analyst,Data Analyst,140000,YEARLY,Cincinnati Metropolitan Area,3077586,110000,Full-time,0,Mid-Senior level,BASE_SALARY,125000,Engineering,Real Estate
+3898157998,"First Tek, Inc.",Data Analyst,Data Analyst,45000,YEARLY,"Los Angeles County, CA",74063,40000,Contract,0,Associate,BASE_SALARY,null,Analyst,Entertainment Providers
+3898158374,"TechGroup America ""TGA"" - A Software Development, Data Analytics and Digital IT Solutions Enterprise",Data Analyst,Data Analyst,45000,YEARLY,"Los Angeles, CA",13316106,40000,Contract,1,null,BASE_SALARY,null,Information Technology,Software Development
+3898164926,Vervent,Data Analyst,Data Analyst,73000,YEARLY,"San Diego, CA",26494838,66560,Full-time,0,Associate,BASE_SALARY,69780,Research,Financial Services
+3898166023,ektello,Data Analyst,Data Analyst,32,HOURLY,"Warren, MI",10545600,28,Contract,0,Entry level,BASE_SALARY,62400,Analyst,IT Services and IT Consulting
+3898166042,STONE Resource Group,Data Analyst,Data Analyst,40,HOURLY,"Roswell, GA",1211135,35,Contract,0,Associate,BASE_SALARY,78000,Information Technology,Staffing and Recruiting
+3898168987,Intellectt Inc,Data Analyst,Data Analyst,230000,YEARLY,"Alameda, CA",14632005,170000,Contract,0,Mid-Senior level,BASE_SALARY,null,Analyst,Medical Equipment Manufacturing
+3898174074,Lume Consulting Group,Data Analyst,Data Analyst,230000,YEARLY,Greater Sacramento,18863748,170000,Contract,0,null,BASE_SALARY,null,Information Technology,Information Technology & Services
+3899511988,GLDS,Data Analyst,Data Analyst,230000,YEARLY,"Carlsbad, CA",378540,170000,Full-time,1,null,BASE_SALARY,null,Information Technology,Software Development
+3899520930,ZealoTech People,Data Analyst,Data Analyst,28,HOURLY,"Irvine, CA",26574100,25,Contract,0,Entry level,BASE_SALARY,55120,Administrative,Aviation and Aerospace Component Manufacturing
+3899521803,Ehub Global Inc,Data Architect,Data Architect,230000,YEARLY,"Denver, CO",79482021,170000,Contract,0,Mid-Senior level,BASE_SALARY,null,Analyst,IT Services and IT Consulting
+3899522302,"Visium Resources, Inc.",Data Analyst,Data Analyst,28.5,HOURLY,"Irvine, CA",321125,26,Contract,0,Associate,BASE_SALARY,56680,Administrative,Staffing and Recruiting
+3899527224,PowerToFly,Data Analyst,Data Analyst,110250,YEARLY,"Purchase, NY",5150994,74800,Full-time,0,null,BASE_SALARY,92525,Information Technology,Software Development
+3899527467,Avant-garde Health,Data Analyst,Data Analyst,230000,YEARLY,Greater Boston,6496262,170000,Full-time,0,Mid-Senior level,BASE_SALARY,null,Analyst,Hospitals and Health Care
+3899530235,e-Zest Solutions,Data Architect,Data Architect,230000,YEARLY,"Texas, United States",125527,170000,Full-time,0,Director,BASE_SALARY,null,Engineering,IT Services and IT Consulting
+3899534432,"LanceSoft, Inc.",Data Analyst,Data Analyst,230000,YEARLY,"Richmond, VA",16388,170000,Contract,0,Mid-Senior level,BASE_SALARY,null,Information Technology,Banking
+3899538732,Russell Tobin,Data Analyst,Data Analyst,69,HOURLY,"San Jose, CA",827183,60,Contract,0,Mid-Senior level,BASE_SALARY,134160,Information Technology,Software Development
+3899540515,Numero Data,Data Analyst,Data Analyst,75000,YEARLY,"Herndon, VA",10520445,70000,Contract,0,Mid-Senior level,BASE_SALARY,72500,Analyst,Data Infrastructure and Analytics
+3899543165,Advantage Tech,Data Entry Specialist,Data Entry,150,HOURLY,Topeka Metropolitan Area,26749,140,Full-time,0,Entry level,BASE_SALARY,41600,Administrative,Accounting
+3899935022,Brooksource,Data Analyst,Data Analyst,150,HOURLY,United States,18476,140,Contract,1,Associate,BASE_SALARY,null,Information Technology,"Technology, Information and Media"
+3900073395,HRUCKUS,Data Analyst,Data Analyst,107000,YEARLY,"Washington, DC",5356751,100000,Contract,0,Mid-Senior level,BASE_SALARY,103500,Information Technology,Government Relations Services
+3900080554,Tata Consultancy Services,Data Analyst,Data Analyst,150,HOURLY,"Charlotte, NC",1353,140,Full-time,0,Entry level,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3900088279,Addison Group,Data Entry Specialist,Data Entry,150,HOURLY,"Austin, TX",18043,140,Full-time,0,Entry level,BASE_SALARY,41600,Administrative,Staffing and Recruiting
+3900944050,Experis,Data Architect,Data Architect,175000,YEARLY,"Meridian, ID",2203697,150000,Full-time,0,Mid-Senior level,BASE_SALARY,162500,Engineering,Staffing and Recruiting
+3900949012,ESB Technologies,Azure Data Engineer,Data Engineer,150,HOURLY,"New York, United States",42880798,140,Contract,0,Mid-Senior level,BASE_SALARY,null,Information Technology,IT System Testing and Evaluation
+3900957963,IBM,Data Analyst,Data Analyst,130924,YEARLY,"Washington, DC",1009,87283,Full-time,0,null,BASE_SALARY,109103.5,Other,Computer Hardware Manufacturing
+3900958808,Mitchell Martin Inc.,Data Entry Specialist,Data Entry,95000,YEARLY,New York City Metropolitan Area,488281,85000,Contract,0,Entry level,BASE_SALARY,null,Administrative,"Technology, Information and Media"
+3900960572,R1 RCM,Data Architect,Data Architect,95000,YEARLY,United States,162255,85000,Full-time,1,null,BASE_SALARY,null,Engineering,Hospitals and Health Care
+3900967031,Ascendion,Data Analyst,Data Analyst,82000,YEARLY,"Seattle, WA",86694680,79000,Full-time,0,Associate,BASE_SALARY,80500,Information Technology,"Technology, Information and Internet"
+3900984477,Epsilon,Data Analyst,Data Analyst,75000,YEARLY,"Chicago, IL",3776,65000,Full-time,0,Associate,BASE_SALARY,null,Marketing,Software Development
+3900986317,Epsilon,Data Analyst,Data Analyst,75000,YEARLY,"Atlanta, GA",3776,65000,Full-time,0,Associate,BASE_SALARY,null,Marketing,Software Development
+3900988130,Epsilon,Data Analyst,Data Analyst,75000,YEARLY,"Irving, TX",3776,65000,Full-time,0,Associate,BASE_SALARY,null,Marketing,Software Development
+3901166920,Oshkosh Defense,Data Analyst,Data Analyst,75000,YEARLY,"Spartanburg, SC",550974,65000,Full-time,0,Entry level,BASE_SALARY,null,Information Technology,Motor Vehicle Manufacturing
+3901342610,CloudIngest,Data Architect,Data Architect,75000,YEARLY,United States,67331111,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901348764,Sun Technologies,Data Analyst,Data Analyst,75000,HOURLY,"Orlando, FL",359901,65000,Contract,0,null,BASE_SALARY,89440,Information Technology,IT Services and IT Consulting
+3901349965,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"Plano, TX",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901358031,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Salt Lake City Metropolitan Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901361348,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"Irving, TX",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901373790,SNVA Technologies,Data Analyst,Data Analyst,75000,YEARLY,"Juno Beach, FL",14439628,65000,Contract,0,null,BASE_SALARY,null,Information Technology,Information Technology & Services
+3901376493,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Greater Phoenix Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901376813,Apex Systems,Data Analyst,Data Analyst,75000,YEARLY,Greater Cleveland,4787,65000,Full-time,0,Mid-Senior level,BASE_SALARY,null,Information Technology,Manufacturing
+3901377487,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Greater Minneapolis-St. Paul Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901381028,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Dallas-Fort Worth Metroplex,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901388643,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Atlanta Metropolitan Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901388800,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Los Angeles Metropolitan Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901389241,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Greater Chicago Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901389262,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Greater Boston,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901389371,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"Brooklyn, NY",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901390524,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"Long Beach, CA",96139831,65000,Contract,1,null,BASE_SALARY,null,Research,Software Development
+3901391072,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"Fairfax, VA",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901391187,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Buffalo-Niagara Falls Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901392127,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Omaha Metropolitan Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901392636,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"Arlington, VA",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901393469,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Greater Sacramento,96139831,65000,Contract,1,null,BASE_SALARY,null,Research,Software Development
+3901393644,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"Santa Clara, CA",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901395329,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"Oakland, CA",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901457333,Coders Data,Data Analyst,Data Analyst,75000,YEARLY,"Tampa, FL",14508644,65000,Full-time,1,Entry level,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3901461025,Coders Data,Data Analyst,Data Analyst,75000,YEARLY,San Francisco Bay Area,14508644,65000,Full-time,1,Entry level,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3901624928,Carpe,Data Analyst,Data Analyst,75000,YEARLY,"Durham, NC",25177185,65000,Full-time,0,null,BASE_SALARY,null,Analyst,Retail
+3901631218,Brightly,Data Analyst,Data Analyst,75000,YEARLY,"Cary, NC",79992924,65000,Full-time,1,Entry level,BASE_SALARY,null,Information Technology,Software Development
+3901632468,i2i Population Health,Data Analyst,Data Analyst,75000,YEARLY,"Tennessee, United States",855005,65000,Full-time,1,null,BASE_SALARY,null,Information Technology,Hospitals and Health Care
+3901666135,Talent Groups,Azure Data Engineer,Data Engineer,75000,YEARLY,United States,51701268,65000,Full-time,1,Mid-Senior level,BASE_SALARY,null,Administrative,Staffing and Recruiting
+3901675598,Unisys,Data Analyst,Data Analyst,75000,YEARLY,"Richmond, VA",1281,65000,Contract,0,Mid-Senior level,BASE_SALARY,null,Information Technology,Banking
+3901681051,SMX,Data Analyst,Data Analyst,75000,YEARLY,"Jacksonville, FL",13011,65000,Full-time,0,Entry level,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3901685711,"Global Technical Talent, an Inc. 5000 Company",Data Analyst,Data Analyst,75000,HOURLY,"Alameda, CA",19241,65000,Contract,0,Entry level,BASE_SALARY,106225.6,Information Technology,Staffing and Recruiting
+3901689367,"Global Technical Talent, an Inc. 5000 Company",Data Analyst,Data Analyst,75000,YEARLY,"Inver Grove Heights, MN",19241,65000,Contract,0,Entry level,BASE_SALARY,null,Information Technology,Staffing and Recruiting
+3901903592,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"Fremont, CA",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901935948,HTC Global Services,Data Analyst,Data Analyst,75000,YEARLY,"Orlando, FL",201351,65000,Full-time,0,Mid-Senior level,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3901937219,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"San Jose, CA",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901937364,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Greater Houston,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901937686,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Raleigh-Durham-Chapel Hill Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901937718,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"San Antonio, Texas Metropolitan Area",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901937792,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Huntsville-Decatur-Albertville Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901938642,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"Richmond, VA",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901939552,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,San Diego Metropolitan Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901940674,LTIMindtree,Data Architect,Data Architect,75000,YEARLY,"Burbank, CA",86813252,65000,Contract,0,null,BASE_SALARY,null,Engineering,IT Services and IT Consulting
+3901941046,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"Arlington, TX",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901941571,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"Sunnyvale, CA",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901942334,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,"Austin, Texas Metropolitan Area",96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901942346,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Greensboro--Winston-Salem--High Point Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901942350,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Greater Tampa Bay Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901943428,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Washington DC-Baltimore Area,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901945059,DataAnnotation,Data Analyst,Data Analyst,75000,YEARLY,Greater Pittsburgh Region,96139831,65000,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3901950460,Emeritus,Data Analyst,Data Analyst,100000,YEARLY,United States,10367223,80000,Full-time,1,Associate,BASE_SALARY,90000,Analyst,Higher Education
+3901965519,Ehub Global Inc,Data Architect,Data Architect,75,YEARLY,"Denver, CO",79482021,70,Contract,0,Director,BASE_SALARY,72.5,Information Technology,IT Services and IT Consulting
+3901992101,CARFAX,Data Analyst,Data Analyst,75000,YEARLY,"Centreville, VA",10616,65000,Full-time,0,Entry level,BASE_SALARY,null,Information Technology,Software Development
+3902304004,TekJobs,Data Analyst,Data Analyst,75000,YEARLY,United States,74081323,65000,Full-time,1,null,BASE_SALARY,null,Information Technology,Software Development
+3902338568,"Paramount Software Solutions, Inc",Data Analyst,Data Analyst,75000,YEARLY,"Seattle, WA",467038,65000,Contract,0,null,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3902340711,Randstad Digital,Data Analyst,Data Analyst,25,HOURLY,"Atlanta, GA",98396104,21,Contract,0,Associate,BASE_SALARY,47840,Information Technology,Retail
+3902348719,Dexian,Data Entry Specialist,Data Entry,75000,HOURLY,United States,91447303,65000,Full-time,1,Associate,BASE_SALARY,37440,Customer Service,Hospitals and Health Care
+3902355613,Qualitative Financials,Data Architect,Data Architect,75000,YEARLY,United States,79830368,65000,Contract,1,null,BASE_SALARY,null,Engineering,Information Technology & Services
+3902360792,Kelly,Data Analyst,Data Analyst,75000,HOURLY,"Columbia, SC",2307,65000,Contract,0,Associate,BASE_SALARY,61880,Information Technology,Hospitals and Health Care
+3902759405,Mastech Digital,Data Entry Specialist,Data Entry,22,HOURLY,"San Diego, CA",3684,20,Contract,0,Associate,BASE_SALARY,43680,Customer Service,Insurance
+3902802384,Carallel,Data Analyst,Data Analyst,90000,YEARLY,United States,29121558,85000,Full-time,1,null,BASE_SALARY,87500,Information Technology,Hospitals and Health Care
+3902830415,Millennium Corporation,Data Architect,Data Architect,0,MONTHLY,United States,529068,0,Full-time,1,Mid-Senior level,BASE_SALARY,null,Other,IT Services and IT Consulting
+3902831531,Insight Global,Data Entry Specialist,Data Entry,45000,YEARLY,United States,11056,25000,Contract,1,Associate,BASE_SALARY,35000,Information Technology,Government Relations Services
+3902858470,E-IT,Data Analyst,Data Analyst,0,MONTHLY,"Charlotte, NC",9211944,0,Contract,0,null,BASE_SALARY,null,Information Technology,Information Technology & Services
+3902866592,Dexian,Data Analyst,Data Analyst,40,HOURLY,"Getzville, NY",91447303,38,Contract,0,null,BASE_SALARY,81120,Finance,Banking
+3902873579,USCTEK - Recruiting & Staffing,Data Analyst,Data Analyst,0,MONTHLY,United States,13637042,0,Full-time,1,null,BASE_SALARY,null,Information Technology,"Technology, Information and Internet"
+3902906828,NULL,Data Analyst,Data Analyst,0,MONTHLY,"Arlington, VA",NULL,0,Full-time,0,null,BASE_SALARY,null,Information Technology,NULL
+3902919654,Nesco Resource,Data Architect,Data Architect,210000,YEARLY,United States,28014,150000,Full-time,1,Mid-Senior level,BASE_SALARY,180000,Analyst,Software Development
+3902942603,ISITE TECHNOLOGIES,Data Architect,Data Architect,0,MONTHLY,United States,71607371,0,Full-time,1,null,BASE_SALARY,null,Information Technology,Information Services
+3902946392,Jencap,Data Processor,Other,0,MONTHLY,"Atlanta, GA",15144146,0,Full-time,0,Entry level,BASE_SALARY,null,Administrative,Insurance
+3903443496,Akkodis,Data Analyst,Data Analyst,70,HOURLY,"Akron, OH",79383535,60,Contract,1,Mid-Senior level,BASE_SALARY,135200,Analyst,IT Services and IT Consulting
+3903444383,ClarisHealth,Data Analyst,Data Analyst,85000,YEARLY,United States,25074734,65000,Full-time,1,Mid-Senior level,BASE_SALARY,null,Information Technology,Hospitals and Health Care
+3903449584,EWS,Data Architect,Data Architect,85000,YEARLY,"Jersey City, NJ",466903,65000,Full-time,0,null,BASE_SALARY,null,Engineering,IT Services and IT Consulting
+3903450989,Straight Arrow News,Data Analyst,Data Analyst,120000,YEARLY,United States,71622423,110000,Full-time,1,Associate,BASE_SALARY,115000,Analyst,Broadcast Media Production and Distribution
+3903454514,EPITEC,Data Analyst,Data Analyst,73,HOURLY,"Chicago, IL",25461,68,Contract,0,Mid-Senior level,BASE_SALARY,146640,Analyst,IT System Data Services
+3903468188,Hotwire Communications Ltd,Data Analyst,Data Analyst,85000,YEARLY,"Raleigh, NC",262802,65000,Full-time,0,Entry level,BASE_SALARY,null,Information Technology,Telecommunications
+3903469466,NMR Consulting,Data Analyst,Data Analyst,90000,YEARLY,"Huntsville, AL",83485,80000,Full-time,0,Associate,BASE_SALARY,85000,Administrative,IT Services and IT Consulting
+3903482160,NLB Services,Data Architect,Data Architect,85000,YEARLY,"Dallas, TX",490432,65000,Full-time,0,null,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3903809575,Glocomms,Data Architect,Data Architect,85000,YEARLY,"Reston, VA",3123217,65000,Full-time,0,Mid-Senior level,BASE_SALARY,200000,Engineering,Security and Investigations
+3903814368,Flock Safety,Data Analyst,Data Analyst,145000,YEARLY,United States,18021229,110000,Full-time,1,Entry level,BASE_SALARY,127500,Information Technology,Public Safety
+3903814585,Robert Half,Data Entry Specialist,Data Entry,65000,YEARLY,"Union County, NJ",1681,55000,Full-time,0,Associate,BASE_SALARY,60000,Customer Service,Manufacturing
+3903838215,Rang Technologies Inc,Data Entry Specialist,Data Entry,18,HOURLY,"Fort Myers, FL",2788204,18,Full-time,0,null,BASE_SALARY,37440,Administrative,IT Services and IT Consulting
+3903844869,Primary Talent Partners,Data Entry Specialist,Data Entry,85000,YEARLY,"Fort Myers, FL",35495217,65000,Full-time,0,Entry level,BASE_SALARY,null,Administrative,Staffing and Recruiting
+3903848583,Genpact,Data Analyst,Data Analyst,85000,YEARLY,"San Antonio, Texas Metropolitan Area",210064,65000,Full-time,0,Mid-Senior level,BASE_SALARY,null,Information Technology,Insurance
+3904061708,TEKsystems,Data Entry Specialist,Data Entry,85000,YEARLY,"Phoenix, AZ",2152,65000,Full-time,0,Entry level,BASE_SALARY,null,Administrative,IT Services and IT Consulting
+3904063212,TEKsystems,Data Entry Specialist,Data Entry,85000,YEARLY,"Phoenix, AZ",2152,65000,Full-time,0,Entry level,BASE_SALARY,null,Administrative,IT Services and IT Consulting
+3904359777,Division Nine,Data Entry Specialist,Data Entry,85000,YEARLY,"Orlando, FL",2326194,65000,Full-time,0,null,BASE_SALARY,null,Administrative,Construction
+3904380768,Chenega MIOS SBU,Data Analyst,Data Analyst,85000,YEARLY,"Alexandria, VA",1472684,65000,Full-time,0,Entry level,BASE_SALARY,null,Information Technology,Defense and Space Manufacturing
+3904388514,Health Care Service Corporation,Data Analyst,Data Analyst,85000,YEARLY,"Richardson, TX",1075434,65000,Full-time,0,null,BASE_SALARY,null,Information Technology,Hospitals and Health Care
+3904389545,Coders Data,Data Analyst,Data Analyst,85000,YEARLY,New York City Metropolitan Area,14508644,65000,Full-time,1,Entry level,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3904509887,"Capital Staffing Solutions, Inc.",Data Entry Specialist,Data Entry,85000,YEARLY,"Rochester, MN",659023,65000,Full-time,0,null,BASE_SALARY,null,Other,Hospitals and Health Care
+3904510164,Open Systems Technologies,Data Analyst,Data Analyst,85000,HOURLY,"New York, NY",11655,65000,Contract,0,Entry level,BASE_SALARY,99840,Information Technology,Staffing and Recruiting
+3904517131,Collabera,Data Entry Specialist,Data Entry,85000,YEARLY,"Fairfax, VA",24440,65000,Contract,0,Entry level,BASE_SALARY,null,Administrative,Information Technology & Services
+3904726091,Booz Allen Hamilton,Data Architect,Data Architect,70,HOURLY,"Hickam Village, HI",1403,60,Full-time,0,null,BASE_SALARY,null,Engineering,IT Services and IT Consulting
+3904922248,AbbVie,Data Analyst,Data Analyst,70,HOURLY,"Mettawa, IL",1304385,60,Full-time,0,Entry level,BASE_SALARY,null,Legal,Pharmaceutical Manufacturing
+3904949054,Apex Systems,Data Analyst,Data Analyst,70,HOURLY,"Richmond, VA",4787,60,Full-time,0,Entry level,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3904955466,DataAnnotation,Data Analyst,Data Analyst,70,HOURLY,Denver Metropolitan Area,96139831,60,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3904957834,Coders Data,Data Analyst,Data Analyst,70,HOURLY,New York City Metropolitan Area,14508644,60,Full-time,1,Entry level,BASE_SALARY,null,Information Technology,IT Services and IT Consulting
+3904964385,Matrix Finance and Accounting,Data Analyst,Data Analyst,55,HOURLY,"Bellevue, WA",479939,45,Contract,0,Mid-Senior level,BASE_SALARY,104000,Analyst,Data Infrastructure and Analytics
+3904966260,DataAnnotation,Data Analyst,Data Analyst,70,HOURLY,Greater Orlando,96139831,60,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3904966927,Altum Solutions,Data Analyst,Data Analyst,70,HOURLY,"Columbia, South Carolina Metropolitan Area",20700988,60,Contract,0,Mid-Senior level,BASE_SALARY,68640,Analyst,IT System Data Services
+3904967740,DataAnnotation,Data Analyst,Data Analyst,70,HOURLY,New York City Metropolitan Area,96139831,60,Contract,1,null,BASE_SALARY,null,Engineering,Software Development
+3904978968,Cornerstone Building Brands,Data Analyst,Data Analyst,95000,YEARLY,"Kearney, MO",19158808,85000,Full-time,1,Associate,BASE_SALARY,90000,Administrative,Wholesale Building Materials
+3904983911,Galactic Minds INC,Data Architect,Data Architect,70,HOURLY,"Houston, TX",92841605,60,Contract,0,Mid-Senior level,BASE_SALARY,null,Information Technology,Information Services
+3904987065,Amtex Systems Inc.,Data Analyst,Data Analyst,70,HOURLY,"Juno Beach, FL",14699670,60,Full-time,0,Mid-Senior level,BASE_SALARY,null,Information Technology,Services for Renewable Energy
+3905236036,Motion Recruitment,Data Analyst,Data Analyst,70,HOURLY,"Audubon, PA",5887,60,Contract,1,Entry level,BASE_SALARY,null,Analyst,Electric Power Generation
+3905302037,"DMI (Digital Management, LLC)",Data Architect,Data Architect,70,HOURLY,"Maryland, United States",51648,60,Full-time,0,Mid-Senior level,BASE_SALARY,null,Engineering,Information Technology & Services
+3905311477,Gravity IT Resources,Data Analyst,Data Analyst,40,HOURLY,"Juno Beach, FL",4854165,30,Contract,0,Mid-Senior level,BASE_SALARY,72800,Analyst,Services for Renewable Energy
+3905874161,Aquarius Professional Staffing,Data Analyst,Data Analyst,70,HOURLY,"Indianapolis, IN",333785,60,Contract,0,Mid-Senior level,BASE_SALARY,null,Information Technology,Insurance
+3906091847,Vertisystem,Data Analyst,Data Analyst,42,HOURLY,"Pennsylvania, United States",3009879,40,Contract,1,Mid-Senior level,BASE_SALARY,85280,Other,Utilities
+3906096020,Infojini Inc,Data Analyst,Data Analyst,75000,YEARLY,"Greenville, SC",815009,68000,Contract,0,Associate,BASE_SALARY,null,Analyst,Automation Machinery Manufacturing
+3906202151,Volto Consulting,Data Architect,Data Architect,160000,YEARLY,United States,81897394,150000,Full-time,1,Mid-Senior level,BASE_SALARY,155000,Consulting,IT Services and IT Consulting
+3906230754,PrimePay,Data Analyst,Data Analyst,80000,YEARLY,"West Chester, PA",21408,60000,Full-time,1,Entry level,BASE_SALARY,70000,Information Technology,Software Development
+3906246968,Cisco Meraki,Data Analyst,Data Analyst,86000,YEARLY,United States,92950,65000,Full-time,1,Entry level,BASE_SALARY,null,Information Technology,Computer Networking Products
+3906249532,orangepeople,Data Analyst,Data Analyst,89,HOURLY,"Orlando, FL",2708565,84,Contract,0,Mid-Senior level,BASE_SALARY,179920,Information Technology,Entertainment Providers
